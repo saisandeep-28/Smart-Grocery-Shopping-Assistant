@@ -154,17 +154,6 @@ The algorithms are evaluated using:
 - Optimize routes for larger supermarkets.
 - Add real-time product availability.
 
-## 👥 Team Members
-
-- Sai Sandeep — CS25B1020
-- Siddhu — CS25B2004
-- Vamsi Nayak — CS25B1017
-- Parthiv — CS25B2033
-
-## 🎓 Academic Information
-
-**Course:** Introduction to AI with Python  
-**Academic Year:** 2026–2027
 
 ---
 
